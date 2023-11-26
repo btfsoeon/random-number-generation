@@ -1,0 +1,1 @@
+Pick ten random numbers from 1-1000.

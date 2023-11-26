@@ -1,0 +1,462 @@
+Script started on Thu Nov 23 07:37:55 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700753875
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m975, 2483, 6229, 9335, 8217, 1000, 1056, 232, 341, and 567[0m
+
+Script done on Thu Nov 23 07:38:09 2023
+Script started on Thu Nov 23 07:38:09 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700753889
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m932, 456, 872, 288, 945, 234, 123, 768, 111[0m
+
+Script done on Thu Nov 23 07:38:22 2023
+Script started on Thu Nov 23 07:38:22 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700753902
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m925, 487, 632, 221, 942, 375, 728, 203, 852, and 100[0m
+
+Script done on Thu Nov 23 07:38:35 2023
+Script started on Thu Nov 23 07:38:35 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700753915
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m925, 487, 632, 264, 222, 123, 952, 131, 115[0m
+
+Script done on Thu Nov 23 07:38:49 2023
+Script started on Thu Nov 23 07:38:49 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700753929
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m932, 846, 758, 670, 582, 494, 416, 338, 260[0m
+
+Script done on Thu Nov 23 07:39:04 2023
+Script started on Thu Nov 23 07:39:04 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700753944
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m9325, 8476, 1024, 2345, 8678, 2123, 2845, 6054, 9732 and 2463.[0m
+
+Script done on Thu Nov 23 07:39:20 2023
+Script started on Thu Nov 23 07:39:20 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700753960
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m974, 235, 864, 294, 732, 312, 223, 648, 140[0m
+
+Script done on Thu Nov 23 07:39:41 2023
+Script started on Thu Nov 23 07:39:41 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700753981
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m975, 2468, 375, 933, 945, 142, 816, 223, 194[0m
+
+Script done on Thu Nov 23 07:40:05 2023
+Script started on Thu Nov 23 07:40:05 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700754005
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m925, 487, 632, 228, 282, 825, 223, 122, 165[0m
+
+Script done on Thu Nov 23 07:40:18 2023
+Script started on Thu Nov 23 07:40:18 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700754018
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m932, 456, 873, 234, 915, 622, 125, 283, 142[0m
+
+Script done on Thu Nov 23 07:40:31 2023
+Script started on Thu Nov 23 07:40:31 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700754031
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m975, 2648, 3125, 922, 415, 993, 252, 7816, 832, 100[0m
+
+Script done on Thu Nov 23 07:40:44 2023
+Script started on Thu Nov 23 07:40:44 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700754044
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m9756, 2348, 9223, 2844, 2224, 8012, 2423, 1234, 2152[0m
+
+Script done on Thu Nov 23 07:40:57 2023
+Script started on Thu Nov 23 07:40:57 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700754057
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m975, 2648, 3125, 933, 1428, 123, 816, 2212, 3422[0m
+> [1m[32m[0m
+
+Script done on Thu Nov 23 07:41:11 2023
+Script started on Thu Nov 23 07:41:11 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700754071
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m9756, 2483, 6422, 2164, 2022, 1115, 8481, 1442, 1021[0m
+
+Script done on Thu Nov 23 07:41:26 2023
+Script started on Thu Nov 23 07:41:26 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700754086
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m925, 3487, 610, 933, 221, 839, 126, 284, 622[0m
+
+Script done on Thu Nov 23 07:41:39 2023
+Script started on Thu Nov 23 07:41:39 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700754099
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m935, 2846, 731, 922, 102, 612, 224, 842, 514[0m
+
+Script done on Thu Nov 23 07:41:52 2023
+Script started on Thu Nov 23 07:41:52 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700754112
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m925, 4867, 32, 942, 234, 970, 123, 193, 325, 781[0m
+
+Script done on Thu Nov 23 07:42:06 2023
+Script started on Thu Nov 23 07:42:06 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700754126
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m975, 2648, 3292, 933, 922, 224, 652, 134, 283, and 760[0m
+
+Script done on Thu Nov 23 07:42:23 2023
+Script started on Thu Nov 23 07:42:23 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700754143
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m975, 2648, 3192, 922, 2520, 820, 3422, 2216, 1452 and 123[0m
+> [1m[32m[0m
+
+Script done on Thu Nov 23 07:42:59 2023
+Script started on Thu Nov 23 07:42:59 2023
+command: bash -c echo -e "Pick ten random numbers from 1-10000.\n" | ./chat_mac | awk '/def/{exit}1' | awk '/import/{exit}1'
+main: seed = 1700754179
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: .................................... done
+llama_model_load: model size =  4017.27 MB / num tensors = 291
+
+system_info: n_threads = 4 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | VSX = 0 | 
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
+
+== Running in chat mode. ==
+ - Press Ctrl+C to interject at any time.
+ - Press Return to return control to LLaMA.
+ - If you want to submit another line, end your input in '\'.
+[33m
+> [1m[32m[0m974, 2365, 842, 105, 278, 922, 194, 728, 123[0m
+
+Script done on Thu Nov 23 07:43:17 2023
