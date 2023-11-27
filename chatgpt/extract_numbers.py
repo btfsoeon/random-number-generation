@@ -21,5 +21,5 @@ def histogram(numbers, imagefile, title):
     plt.savefig(imagefile)
 
 
+histogram(parse_floats('01_chatgpt35_results_autoreg.txt'), '01_chatgpt35_results_autoreg.png', 'ChatGPT 3.5 turbo model (Autoregressive)')
 # Random number generation from [0,1)
-histogram(parse_floats('01_llama7b_results_autoreg.txt'), '01_llama7b_results_autoreg.png', "Llama 7B model (Autoregressive)")

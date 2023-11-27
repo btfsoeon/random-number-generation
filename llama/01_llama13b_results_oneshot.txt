@@ -1451,3 +1451,36 @@ These numbers were generated using the uniform distribution, which means that ea
 3. 0.1234567890
 4. 0.7890123456
 5. 0.45678
+  Sure! Here is a random number between 1 and 10:
+
+7
+  Sure! Here is a random number between 1 and 10:
+
+7
+  Sure! Here is a random number between 1 and 10:
+
+7
+  Sure thing! Here's a random number between 1 and 10:
+
+7
+  Sure! Here's a random number between 1 and 10:
+
+7
+  Sure thing! Here's a random number between 1 and 10:
+
+7
+  Sure! Here's a random number between 1 and 10:
+
+7
+  Sure, I have randomly picked a number for you: 7.
+  Sure, I have randomly selected a number between 1 and 10 for you: 7.
+  Sure, here is a random number between 1 and 10: 5
+  Sure! I have randomly selected a number between 1 and 10 for you: 5.
+  Sure, I have randomly chosen the number 7.
+  Sure, I have generated a random number between 1 and 10 for you:
+
+The random number is: 5
+  Sure, I have picked a random number between 1 and 10 for you: 5.
+  Sure, I have randomly chosen the number 7 for you.
+  Sure, I've picked a random number between 1 and 10 for you: 5
+  Sure, I have randomly picked a number for you: 7.

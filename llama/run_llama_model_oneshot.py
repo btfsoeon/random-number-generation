@@ -7,16 +7,16 @@ import json
 import re
 
 # Put the location of to the GGUF model that you've download from HuggingFace here
-# model_path = "llama-2-7b-chat.Q2_K.gguf"
-model_path = "llama-2-13b-chat.Q2_K.gguf"
+model_path = "llama-2-7b-chat.Q2_K.gguf"
+# model_path = "llama-2-13b-chat.Q2_K.gguf"
 
 # Create a llama model
 model = Llama(model_path=model_path)
 
 # max_list = [10,100]
 # max_list = [1000,10000,100000]
-n_trial = 200
-results = {}
+n_trial = 10
+# results = {}
 
 # for n_max in max_list:
 #     # Prompt creation
@@ -44,7 +44,8 @@ results = {}
 
 
 system_message = ""
-user_message = f"Give me a list of uniform random numbers in the interval [0, 1]:"
+# user_message = f"Give me a list of uniform random numbers in the interval [0, 1]:"
+user_message = f"Pick random number from 1 to 10"
 prompt = f"""<s>[INST] <<SYS>>
 {system_message}
 <</SYS>>
