@@ -1812,3 +1812,32 @@ List 2:
 * 0.997143567
 * 0.13542789
 * 0.67489345
+  Sure! Here's a new list of 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.8234
+2. 0.4671
+3. 0.9358
+4. 0.1983
+5. 0.5827
+6. 0.6512
+7. 0.2955
+8. 
+  Sure! Here are 5 different lists of 5 uniform random numbers each in the interval [0, 1]:
+
+List 1:
+
+1. 0.83629
+2. 0.47253
+3. 0.69314
+4. 0.14286
+5. 0.90332
+
+List 2:
+
+1. 0.
+  Sure! Here's a new list of four uniform random numbers in the interval [0, 1]:
+
+* 0.873
+* 0.294
+* 0.615
+* 0.928

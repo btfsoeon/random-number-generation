@@ -1,6 +1,8 @@
 import re
 import matplotlib.pyplot as plt
 import numpy as np
+import json
+
 
 def parse_floats(filename):
     regex = '0\.[0-9]*'
@@ -20,6 +22,19 @@ def histogram(numbers, imagefile, title):
     plt.title(title)
     plt.savefig(imagefile)
 
+# histogram(numbers, '01_llama7b_results_autoreg.png', "Llama 7B model (Autoregressive)")
 
 # Random number generation from [0,1)
-histogram(parse_floats('01_llama7b_results_autoreg.txt'), '01_llama7b_results_autoreg.png', "Llama 7B model (Autoregressive)")
+numbers_7b_oneshot = parse_floats('01_llama7b_results_oneshot.txt')
+numbers_7b_autoreg = parse_floats('01_llama7b_results_autoreg.txt')
+numbers_13b_oneshot = parse_floats('01_llama13b_results_oneshot.txt')
+numbers_13b_autoreg = parse_floats('01_llama13b_results_autoreg.txt')
+
+data = {}
+data['llama_7b_oneshot'] = numbers_7b_oneshot
+data['llama_7b_autoreg'] = numbers_7b_autoreg
+data['llama_13b_oneshot'] = numbers_13b_oneshot
+data['llama_13b_autoreg'] = numbers_13b_autoreg
+
+with open('llama.json', 'w') as f:
+    json.dump(data, f)

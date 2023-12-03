@@ -4,7 +4,7 @@ import re
 
 client = OpenAI(
     # defaults to os.environ.get("OPENAI_API_KEY")
-    api_key="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",
+    api_key="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",
     organization="org-etrIrRiqCGY9JJ8m6uwX3kcU",
 )
 
@@ -38,16 +38,17 @@ client = OpenAI(
 # with open("temp_2.0_results.json", "w") as f: 
 #     json.dump(results, f)
 
-result_file = "01_chatgpt4_results_autoreg.txt"
+result_file = "01_chatgpt4_temp15_results_autoreg.txt"
 model = "gpt-4"
-n_trial = 200
+temperature = 1.5
+n_trial = 100
 messages = [ 
             {"role": "system", "content": ""},
             {"role": "user", "content": "Give me a different list of uniform random numbers in the interval [0, 1]:"}
             ]
 chat_completion = client.chat.completions.create(
         messages=messages,
-        # temperature=2,
+        temperature=temperature,
         model=model,
 )
 reply = chat_completion.choices[0].message.content
@@ -63,7 +64,7 @@ for i in range(1,n_trial):
     system_message = f"I have a list of uniform random numbers in the interval [0, 1]:{prev_result}"
     chat_completion = client.chat.completions.create(
         messages=messages,
-        # temperature=2,
+        temperature=temperature,
         model=model,
     )
     reply = chat_completion.choices[0].message.content

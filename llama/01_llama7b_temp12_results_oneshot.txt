@@ -1,0 +1,1935 @@
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.726
+2. 0.349
+3. 0.518
+4. 0.907
+5. 0.173
+6. 0.031
+7. 0.854
+8. 0.462
+9. 0.7
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.8536497325
+2. 0.3463502682
+3. 0.9217391848
+4. 0.0415701815
+5. 0.758124515
+  Sure! Here are 10 random numbers between 0 and 1:
+
+1. 0.782
+2. 0.345
+3. 0.021
+4. 0.956
+5. 1.103
+6. 0.437
+7. 0.621
+8. 0.514
+9. 0.877
+
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.7468253
+2. 0.3583084
+3. 0.9226963
+4. 0.0751357
+5. 0.2312759
+6. 0.6181983
+
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.813
+2. 0.457
+3. 0.682
+4. 0.921
+5. 0.534
+6. 0.745
+7. 0.263
+8. 0.097
+9. 0.8
+  Sure! Here are 10 random uniform numbers in the interval [0, 1]:
+
+1. 0.8347
+2. 0.5423
+3. 0.9916
+4. 1.0678
+5. 0.7536
+6. 0.2489
+7. 0.0931
+8. 0.471
+  Sure! Here are ten uniform random numbers in the interval [0, 1]:
+
+1. 0.8123
+2. 0.5476
+3. 0.9210
+4. 0.2345
+5. 0.7168
+6. 0.0531
+7. 0.4210
+8. 0.6357
+
+  Sure! Here are 10 random uniform numbers between 0 and 1:
+
+1. 0.754
+2. 0.361
+3. 0.927
+4. 0.076
+5. 0.814
+6. 1.235
+7. 0.489
+8. 0.043
+9. 0.772
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.834
+2. 0.257
+3. 0.426
+4. 0.793
+5. 0.071
+6. 0.364
+7. 0.917
+8. 0.582
+9. 0.2
+  Sure! Here are ten random numbers in the interval [0, 1], generated using the random number generator built into your Python interpreter:
+
+1. 0.7536294
+2. 0.1169837
+3. 0.5263715
+4. 0.4858723
+5. 0.9327519
+6. 0
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+* 0.534218
+* 0.749185
+* 0.265437
+* 0.814219
+* 0.381429
+* 0.654214
+* 0.098765
+*
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1):
+
+1. 0.854321
+2. 0.361779
+3. 0.422438
+4. 0.915241
+5. 0.076354
+6. 0.749577
+7. 0.5
+  Sure! Here are 10 random numbers between 0 and 1:
+
+1. 0.5432
+2. 0.7618
+3. 0.9041
+4. 0.4215
+5. 0.8123
+6. 0.3579
+7. 0.7210
+8. 0.1427
+9
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.54321
+2. 0.81457
+3. 0.76934
+4. 0.43215
+5. 0.92786
+6. 0.17537
+7. 0.68223
+8
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.7536273241
+2. 0.3412287256
+3. 0.0953743891
+4. 0.6581635663
+5. 0.927372871
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.784263
+2. 0.351793
+3. 0.924247
+4. 0.051404
+5. 1.021806
+6. 0.432639
+7. 0.7
+  Sure! Here are ten uniform random numbers in the interval [0, 1]:
+
+1. 0.7863152
+2. 0.9345281
+3. 0.4123537
+4. 0.5093615
+5. 0.2516826
+6. 0.7184399
+7.
+  Sure! Here are 10 random numbers between 0 and 1:
+
+1. 0.7536982
+2. 0.2463018
+3. 0.9253743
+4. 0.4373763
+5. 0.5624279
+6. 0.8467306
+7. 
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.789
+2. 0.345
+3. 0.021
+4. 0.957
+5. 0.431
+6. 0.718
+7. 0.563
+8. 0.102
+9. 0.6
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.5234
+2. 0.7891
+3. 0.3472
+4. 0.6328
+5. 0.4567
+6. 0.7543
+7. 0.2135
+8. 0.936
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+* 0.456789
+* 0.234521
+* 0.761452
+* 0.023456
+* 0.345678
+* 0.901234
+* 0.567890
+*
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1):
+
+1. 0.854321
+2. 0.361927
+3. 0.479175
+4. 0.62895
+5. 0.907316
+6. 0.532534
+7. 0.24
+  Sure! Here are 10 random numbers between 0 and 1:
+
+1. 0.854321
+2. 0.361773
+3. 0.074209
+4. 0.923546
+5. 0.492662
+6. 0.675435
+7. 0.7824
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+* 0.785423
+* 0.361993
+* 0.472339
+* 0.258451
+* 0.531275
+* 0.403411
+* 0.238477
+*
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.738
+2. 0.456
+3. 0.917
+4. 0.523
+5. 0.261
+6. 1.123
+7. 0.854
+8. 0.672
+9. 0.3
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+* 0.345672
+* 0.654789
+* 0.892341
+* 0.175672
+* 0.432105
+* 0.927433
+* 0.618284
+*
+  Sure! Here are ten uniform random numbers in the interval [0, 1]:
+
+1. 0.786459
+2. 0.349230
+3. 0.817867
+4. 0.214015
+5. 0.766682
+6. 0.552346
+7. 0.874
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.723
+2. 0.256
+3. 0.489
+4. 0.811
+5. 0.537
+6. 0.293
+7. 0.625
+8. 0.369
+9. 0.9
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.8623945239
+2. 0.4317328743
+3. 0.645216511
+4. 0.918133096
+5. 0.253595317
+6
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.7846254
+2. 0.3509053
+3. 0.8173167
+4. 0.03477016
+5. 0.9215315
+6. 0.0926625
+  Sure! Here are 10 random numbers in the interval [0, 1]:
+
+1. 0.7843215
+2. 0.9356437
+3. 0.4921921
+4. 1.0234567
+5. 0.1321431
+6. 0.8156755
+7
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.8342
+2. 0.3579
+3. 0.4621
+4. 0.9278
+5. 0.5314
+6. 0.2437
+7. 0.7563
+8. 0.061
+  Sure! Here are 10 random uniform numbers between 0 and 1:
+
+1. 0.652
+2. 0.834
+3. 0.471
+4. 0.925
+5. 0.713
+6. 0.547
+7. 0.399
+8. 0.105
+9. 0.781
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.584754
+2. 0.349609
+3. 0.751917
+4. 0.234414
+5. 0.075521
+6. 0.923072
+7. 0.4
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.7485
+2. 0.3512
+3. 0.9047
+4. 0.0265
+5. 0.6318
+6. 0.8743
+7. 0.4091
+8. 0.541
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.7369452
+2. 0.4814913
+3. 0.9271975
+4. 0.2349187
+5. 0.5637163
+6. 0.8571457
+
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.834
+2. 0.367
+3. 0.991
+4. 0.125
+5. 0.456
+6. 0.078
+7. 0.782
+8. 0.213
+9. 0.6
+  Sure! Here are 10 random uniform numbers in the interval [0, 1]:
+
+1. 0.7894253
+2. 0.3616493
+3. 0.0525209
+4. 0.9023547
+5. 0.4113231
+6. 0.6478724
+
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.54235
+2. 0.71143
+3. 0.26894
+4. 0.92738
+5. 0.03456
+6. 0.11274
+7. 0.83521
+8
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.753423
+2. 0.812571
+3. 0.926735
+4. 0.175322
+5. 0.535375
+6. 0.254451
+7. 0.6
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+* 0.1457391652
+* 0.357894338
+* 0.523478923
+* 0.782635456
+* 0.210746494
+* 0.635
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+* 0.2345678901
+* 0.456789012
+* 0.789012345
+* 0.123456789
+* 0.3456789012
+* 0.56
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.584923
+2. 0.746247
+3. 0.239761
+4. 0.465761
+5. 0.011962
+6. 0.817393
+7. 0.3
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.782354
+2. 0.361491
+3. 0.0265431
+4. 0.917548
+5. 0.148016
+6. 0.0542227
+7. 0
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.54321
+2. 0.78947
+3. 0.26195
+4. 0.85412
+5. 0.43213
+6. 0.92761
+7. 0.56326
+8
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.78436259
+2. 0.43609287
+3. 0.90196082
+4. 0.54785037
+5. 0.26837947
+6. 1.032
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.725
+2. 0.386
+3. 0.949
+4. 0.235
+5. 1.09
+6. 0.568
+7. 0.772
+8. 0.217
+9. 0.46
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.743
+2. 0.921
+3. 0.457
+4. 0.689
+5. 0.162
+6. 0.834
+7. 0.491
+8. 0.703
+9. 0.0
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.834
+2. 0.376
+3. 0.925
+4. 0.051
+5. 0.267
+6. 0.532
+7. 0.717
+8. 0.463
+9. 0.6
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.5436
+2. 0.7823
+3. 0.9512
+4. 0.3124
+5. 0.6798
+6. 0.1457
+7. 0.8273
+8. 0.432
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.734562
+2. 0.361987
+3. 0.024681
+4. 0.915423
+5. 0.472384
+6. 0.105637
+7. 0.7
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+* 0.854321
+* 0.361907
+* 0.472835
+* 0.631428
+* 0.921026
+* 0.056734
+* 0.782691
+*
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.7389245
+2. 0.3610755
+3. 0.0742371
+4. 0.9012356
+5. 0.2345789
+6. 0.6753142
+
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.854321
+2. 0.361947
+3. 0.075285
+4. 0.927809
+5. 0.112583
+6. 0.046593
+7. 0.8
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.82354
+2. 0.37646
+3. 0.05219
+4. 0.92187
+5. 0.46793
+6. 0.73203
+7. 0.24452
+8
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1):
+
+1. 0.85423
+2. 0.36197
+3. 0.07221
+4. 0.43535
+5. 0.92789
+6. 0.21803
+7. 0.58147
+8
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.78432
+2. 0.36159
+3. 0.03757
+4. 0.92773
+5. 0.11523
+6. 0.47291
+7. 0.8506
+8.
+  Sure! Here are 10 random numbers between 0 and 1:
+
+1. 0.7348125
+2. 0.2651875
+3. 0.5417329
+4. 0.8125481
+5. 0.4214623
+6. 0.9342653
+7. 
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+* 0.347
+* 0.568
+* 0.239
+* 0.852
+* 0.421
+* 0.673
+* 0.937
+* 0.782
+* 0.245
+* 0.59
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.82342
+2. 0.35714
+3. 0.09276
+4. 0.48105
+5. 0.63472
+6. 0.04938
+7. 0.71953
+8
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.7366954
+2. 0.2633046
+3. 0.0924891
+4. 0.8142302
+5. 0.4810124
+6. 0.1575353
+
+  Sure! Here are 10 uniformly randomly generated numbers in the interval [0, 1]:
+
+1. 0.879251
+2. 0.361495
+3. 0.057605
+4. 0.927864
+5. 0.143382
+6. 0.582244
+7. 0.
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.425
+2. 0.672
+3. 0.858
+4. 0.921
+5. 0.263
+6. 0.517
+7. 0.732
+8. 0.476
+9. 0.3
+  Sure! Here are 10 uniformly randomly generated numbers in the interval [0, 1]:
+
+1. 0.8573245
+2. 0.3619029
+3. 0.0743155
+4. 0.9142217
+5. 0.4324394
+6. 0.0236842
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.7843
+2. 0.2591
+3. 0.0362
+4. 0.9174
+5. 0.1456
+6. 0.4735
+7. 0.8263
+8. 0.561
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.8623
+2. 0.3497
+3. 0.9951
+4. 0.5068
+5. 0.1274
+6. 0.8317
+7. 0.4653
+8. 0.273
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.854273
+2. 0.361592
+3. 0.092237
+4. 0.637634
+5. 0.408102
+6. 0.942345
+7. 0.0
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.5436
+2. 0.7891
+3. 0.2761
+4. 0.4319
+5. 0.8452
+6. 0.0341
+7. 0.1234
+8. 0.516
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+* 0.342
+* 0.567
+* 0.789
+* 0.123
+* 0.417
+* 0.926
+* 0.231
+* 0.458
+* 0.773
+* 0.59
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.854321
+2. 0.432191
+3. 0.677855
+4. 0.361427
+5. 0.745672
+6. 0.205123
+7. 0.9
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.8342
+2. 0.3415
+3. 0.4768
+4. 0.9271
+5. 0.5634
+6. 0.2109
+7. 0.7321
+8. 0.410
+  Sure! Here are 10 uniformly distributed random numbers in the interval [0, 1]:
+
+1. 0.432
+2. 0.675
+3. 0.928
+4. 0.243
+5. 0.756
+6. 0.511
+7. 0.827
+8. 0.354
+9. 0.
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.654321
+2. 0.897235
+3. 0.421069
+4. 0.934561
+5. 0.672891
+6. 0.341875
+7. 0.7
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.5432
+2. 0.7891
+3. 0.2510
+4. 0.9344
+5. 0.1657
+6. 0.8273
+7. 0.4369
+8. 0.714
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.7634215
+2. 0.2345368
+3. 0.9157672
+4. 0.0246828
+5. 1.342567
+6. 0.1738443
+7
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.845
+2. 0.372
+3. 0.996
+4. 0.163
+5. 0.751
+6. 0.228
+7. 0.567
+8. 0.031
+9. 0.8
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+* 0.543219479
+* 0.814562387
+* 0.123456789
+* 0.432109476
+* 0.987654321
+* 0.2345
+  Sure! Here are 10 random numbers between 0 and 1:
+
+1. 0.827
+2. 0.453
+3. 0.674
+4. 0.932
+5. 0.517
+6. 0.789
+7. 0.263
+8. 0.481
+9. 0.804
+
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.725
+2. 0.348
+3. 0.917
+4. 0.056
+5. 0.689
+6. 0.273
+7. 0.854
+8. 0.401
+9. 0.5
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.4571429
+2. 0.6735714
+3. 0.8921337
+4. 0.1654073
+5. 0.3415854
+6. 0.9036133
+
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.764978
+2. 0.345263
+3. 0.816193
+4. 0.072221
+5. 0.435731
+6. 0.902893
+7. 0.5
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.789
+2. 0.341
+3. 0.025
+4. 0.917
+5. 0.132
+6. 0.567
+7. 0.853
+8. 0.419
+9. 0.7
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.785
+2. 0.342
+3. 0.036
+4. 0.901
+5. 0.257
+6. 0.613
+7. 0.495
+8. 0.854
+9. 0.0
+  Sure! Here are 10 random numbers in the interval [0, 1]:
+
+1. 0.854321
+2. 0.361428
+3. 0.475932
+4. 0.621094
+5. 0.034154
+6. 0.917356
+7. 0.74
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.73249458
+2. 0.26750542
+3. 0.02830611
+4. 0.6914689
+5. 0.30995238
+6. 0.5354
+  Sure! Here are ten uniformly random numbers in the interval [0, 1):
+
+1. 0.834567
+2. 0.342195
+3. 0.967234
+4. 0.021753
+5. 0.143945
+6. 0.812456
+7. 0.653
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.82354
+2. 0.37646
+3. 0.09218
+4. 0.90472
+5. 0.11225
+6. 0.48567
+7. 0.67284
+8
+  Sure! Here are ten random numbers between 0 and 1:
+
+1. 0.7354235
+2. 0.2645765
+3. 0.9085176
+4. 0.1756234
+5. 0.3574221
+6. 0.514285
+7. 0.6
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1):
+
+1. 0.8648932
+2. 0.5734378
+3. 0.9222595
+4. 0.4487377
+5. 0.3976815
+6. 0.8524389
+
+  Sure! Here are ten random numbers between 0 and 1:
+
+1. 0.542
+2. 0.731
+3. 0.926
+4. 0.814
+5. 0.467
+6. 0.679
+7. 0.353
+8. 0.241
+9. 0.575
+10
+  Sure! Here are ten uniform random numbers in the interval [0, 1]:
+
+1. 0.546632
+2. 0.732158
+3. 0.274988
+4. 0.915167
+5. 0.468091
+6. 0.341507
+7. 0.652
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.786423
+2. 0.354675
+3. 0.927447
+4. 0.115299
+5. 0.473541
+6. 0.802319
+7. 0.0
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.879354
+2. 0.341648
+3. 0.407844
+4. 0.931036
+5. 0.263541
+6. 0.734854
+7. 0.5
+  Sure! Here are 10 random numbers between 0 and 1:
+
+1. 0.7362754
+2. 0.2637246
+3. 0.9083739
+4. 0.4852327
+5. 0.5791846
+6. 0.8210915
+7. 
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.82354
+2. 0.31769
+3. 0.95418
+4. 0.03617
+5. 0.17285
+6. 0.63145
+7. 0.2105
+8.
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.7345692
+2. 0.8523451
+3. 0.9657934
+4. 0.4712891
+5. 0.5836223
+6. 0.7142857
+
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.75
+2. 0.38
+3. 0.92
+4. 0.06
+5. 0.81
+6. 0.45
+7. 0.64
+8. 0.53
+9. 0.27
+10. 0.
+  Sure! Here are 10 random uniform numbers in the interval [0, 1):
+
+1. 0.723456789
+2. 0.352194271
+3. 0.034285714
+4. 0.901234567
+5. 0.123456789
+6. 
+  Sure! Here are ten uniform random numbers in the interval [0, 1]:
+
+1. 0.865362
+2. 0.437792
+3. 0.620986
+4. 0.998014
+5. 0.258173
+6. 0.571803
+7. 0.709
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.78432
+2. 0.35169
+3. 0.02468
+4. 0.91523
+5. 0.43287
+6. 0.71948
+7. 0.08773
+8
+  Sure! Here are 10 uniformly randomly generated numbers in the interval [0, 1]:
+
+1. 0.72345678
+2. 0.34123548
+3. 0.95672348
+4. 0.11235489
+5. 0.02345678
+6. 0.85
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+* 0.25478936
+* 0.76342104
+* 0.03415456
+* 0.91072987
+* 0.14285263
+* 0.43720386
+
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.73542
+2. 0.36198
+3. 0.09017
+4. 0.42151
+5. 0.90323
+6. 0.15309
+7. 0.77237
+8
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.654
+2. 0.341
+3. 0.872
+4. 0.529
+5. 0.713
+6. 0.268
+7. 0.432
+8. 0.921
+9. 0.1
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.854321
+2. 0.361745
+3. 0.927588
+4. 0.076519
+5. 0.582807
+6. 0.753643
+7. 0.1
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.756297
+2. 0.341552
+3. 0.092758
+4. 0.953161
+5. 0.174259
+6. 0.025957
+7. 0.8
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.785423
+2. 0.361758
+3. 0.0921874
+4. 0.453296
+5. 0.741299
+6. 0.230556
+7. 0.
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.753214
+2. 0.956348
+3. 0.124683
+4. 0.467029
+5. 0.304386
+6. 0.658592
+7. 0.0
+  Sure! Here are 10 random uniform numbers between 0 and 1:
+
+1. 0.782354
+2. 0.361592
+3. 0.034248
+4. 0.903646
+5. 0.124112
+6. 0.673149
+7. 0.043
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.854321
+2. 0.361979
+3. 0.075612
+4. 0.927743
+5. 0.492871
+6. 0.246335
+7. 0.7
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.785423
+2. 0.214577
+3. 0.936215
+4. 0.349095
+5. 0.0573211
+6. 0.657552
+7. 0.
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.7369254
+2. 0.3628109
+3. 0.4785632
+4. 0.9154751
+5. 0.5342598
+6. 0.2054316
+
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.5342
+2. 0.7489
+3. 0.3618
+4. 0.9235
+5. 0.1176
+6. 0.6548
+7. 0.4312
+8. 0.260
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.782354
+2. 0.934121
+3. 0.045611
+4. 0.857107
+5. 0.321235
+6. 1.00234
+7. 0.46
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.834
+2. 0.357
+3. 0.092
+4. 0.921
+5. 0.563
+6. 0.184
+7. 0.756
+8. 0.239
+9. 0.4
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.854321
+2. 0.361776
+3. 0.075296
+4. 0.927455
+5. 0.416639
+6. 0.634268
+7. 0.0
+  Sure! Here are 10 random numbers between 0 and 1:
+
+1. 0.7536274
+2. 0.2463726
+3. 0.918667
+4. 0.454171
+5. 0.632775
+6. 0.0712354
+7. 0.3
+  Sure! Here are ten uniform random numbers in the interval [0, 1]:
+
+1. 0.84623
+2. 0.35377
+3. 0.97411
+4. 0.16255
+5. 0.63295
+6. 0.44108
+7. 0.73814
+8. 
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.689
+2. 0.347
+3. 0.051
+4. 0.912
+5. 0.438
+6. 0.743
+7. 0.205
+8. 0.521
+9. 0.8
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.5342
+2. 0.7067
+3. 0.2489
+4. 0.8153
+5. 0.4725
+6. 0.6314
+7. 0.9278
+8. 0.364
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.756
+2. 0.341
+3. 0.985
+4. 0.027
+5. 0.812
+6. 0.453
+7. 0.628
+8. 0.261
+9. 0.5
+  Sure! Here are 10 random numbers in the interval [0, 1]:
+
+1. 0.872348
+2. 0.165437
+3. 0.951281
+4. 0.042105
+5. 0.673842
+6. 0.541357
+7. 0.31
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.78342
+2. 0.24658
+3. 0.92105
+4. 0.46783
+5. 1.1152
+6. 0.57235
+7. 0.83123
+8.
+  Sure! Here are 10 random numbers between 0 and 1:
+
+* 0.34567
+* 0.92438
+* 0.17284
+* 0.56713
+* 0.73456
+* 0.4209
+* 0.81576
+* 0.68237
+* 
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+* 0.253746
+* 0.846293
+* 0.034112
+* 0.460311
+* 0.721344
+* 0.547531
+* 0.213132
+*
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.854273
+2. 0.361941
+3. 0.037262
+4. 0.999935
+5. 0.414726
+6. 0.575289
+7. 0.2
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.582359
+2. 0.347766
+3. 0.854271
+4. 0.722482
+5. 0.213596
+6. 0.435637
+7. 0.0
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.534
+2. 0.721
+3. 0.268
+4. 0.985
+5. 0.472
+6. 0.631
+7. 0.845
+8. 0.357
+9. 0.0
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.823456
+2. 0.341578
+3. 0.472319
+4. 0.765432
+5. 0.531679
+6. 0.214357
+7. 0.9
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.734297
+2. 0.265703
+3. 0.852395
+4. 0.347602
+5. 0.021505
+6. 0.673173
+7. 0.9
+  Sure! Here are 10 random numbers between 0 and 1:
+
+1. 0.7342153
+2. 0.9658792
+3. 0.1823421
+4. 0.5417317
+5. 0.2935644
+6. 0.8145283
+7. 
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.736254
+2. 0.358931
+3. 0.999991
+4. 0.214332
+5. 0.626328
+6. 0.447018
+7. 0.8
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.783645
+2. 0.954617
+3. 0.156189
+4. 0.477627
+5. 0.316275
+6. 0.715794
+7. 0.2
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.765
+2. 0.342
+3. 0.928
+4. 0.081
+5. 0.117
+6. 0.453
+7. 0.728
+8. 0.231
+9. 0.6
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.756349
+2. 0.243651
+3. 0.085417
+4. 0.914299
+5. 0.435671
+6. 0.564321
+7. 0.1
+  Sure! Here are ten uniform random numbers in the interval [0, 1]:
+
+* 0.46789
+* 0.23541
+* 0.90176
+* 0.74823
+* 0.50364
+* 0.16755
+* 0.40561
+* 0.82473
+
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1):
+
+1. 0.754829635
+2. 0.361978952
+3. 0.052163018
+4. 0.920334084
+5. 0.114119231
+6. 
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.547
+2. 0.813
+3. 0.926
+4. 0.431
+5. 0.249
+6. 0.078
+7. 0.754
+8. 0.182
+9. 0.6
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.73542458
+2. 0.91423541
+3. 0.34567892
+4. 0.56732243
+5. 0.12345678
+6. 0.673
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.789
+2. 0.345
+3. 0.967
+4. 0.031
+5. 0.274
+6. 0.715
+7. 0.542
+8. 0.439
+9. 0.6
+  Sure! Here are 10 random uniform numbers in the interval [0, 1]:
+
+1. 0.784245
+2. 0.349263
+3. 0.032538
+4. 0.873121
+5. 0.419323
+6. 0.067457
+7. 0.9
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.756231
+2. 0.341583
+3. 0.092412
+4. 0.814745
+5. 0.463237
+6. 0.58125
+7. 0.23
+  Sure! Here are ten uniform random numbers in the interval [0, 1):
+
+1. 0.854321
+2. 0.361972
+3. 0.905884
+4. 0.0284471
+5. 0.635142
+6. 0.810223
+7. 0.46
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.8342157
+2. 0.3415963
+3. 0.0256372
+4. 0.9026236
+5. 0.6171288
+6. 0.5649727
+
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.783254
+2. 0.946712
+3. 0.115723
+4. 0.658128
+5. 0.374705
+6. 0.526248
+7. 0.2
+  Sure! Here are 10 uniformly randomly generated numbers in the interval [0, 1]:
+
+1. 0.8345
+2. 0.3762
+3. 0.9418
+4. 0.0257
+5. 0.4379
+6. 0.1523
+7. 0.7411
+8. 0.60
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.864792
+2. 0.351636
+3. 0.937451
+4. 0.024608
+5. 0.726671
+6. 0.479265
+7. 0.5
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.726
+2. 0.349
+3. 0.852
+4. 0.471
+5. 0.938
+6. 0.264
+7. 0.587
+8. 0.773
+9. 0.4
+  Sure! Here are 10 random numbers between 0 and 1:
+
+1. 0.83452
+2. 0.36197
+3. 0.07423
+4. 0.92085
+5. 0.14567
+6. 0.53298
+7. 0.71429
+8. 0
+  Sure! Here are ten uniform random numbers in the interval [0, 1]:
+
+1. 0.7653
+2. 0.2342
+3. 0.9985
+4. 0.1234
+5. 0.5678
+6. 0.8921
+7. 0.4312
+8. 0.7523
+
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.789
+2. 0.345
+3. 0.021
+4. 0.907
+5. 0.463
+6. 0.531
+7. 0.854
+8. 0.216
+9. 0.6
+  Sure! Here are 10 random uniform numbers in the interval [0, 1]:
+
+1. 0.687
+2. 0.349
+3. 0.925
+4. 0.051
+5. 0.711
+6. 0.438
+7. 0.562
+8. 0.273
+9. 0.8
+  Sure! Here are ten uniform random numbers in the interval [0, 1):
+
+1. 0.5342
+2. 0.7489
+3. 0.2511
+4. 0.9176
+5. 0.4625
+6. 0.7034
+7. 0.5733
+8. 0.1941
+
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.853764
+2. 0.410946
+3. 0.678376
+4. 0.924514
+5. 0.249553
+6. 0.562892
+7. 0.8
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.7523
+2. 0.4658
+3. 0.9872
+4. 0.6347
+5. 1.0115
+6. 0.2437
+7. 0.5823
+8. 0.857
+  Sure! Here are 10 random uniform numbers in the interval [0, 1]:
+
+1. 0.75
+2. 0.36
+3. 0.98
+4. 0.02
+5. 0.43
+6. 1.12
+7. 0.69
+8. 0.25
+9. 0.57
+10. 0.
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.734
+2. 0.956
+3. 0.481
+4. 0.672
+5. 0.817
+6. 0.543
+7. 0.268
+8. 0.703
+9. 0.4
+  Sure! Here are 10 uniformly randomly generated numbers between 0 and 1:
+
+1. 0.823456
+2. 0.317289
+3. 0.456793
+4. 0.732894
+5. 0.561728
+6. 0.931034
+7. 0.26
+  Sure! Here are 10 random numbers in the interval [0, 1]:
+
+1. 0.75384618
+2. 0.24615382
+3. 0.93476823
+4. 0.56142857
+5. 0.17288943
+6. 0.6897
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.78432
+2. 0.36155
+3. 0.92758
+4. 0.03421
+5. 0.61234
+6. 0.42519
+7. 0.87653
+8
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.834754
+2. 0.361939
+3. 0.092476
+4. 0.756062
+5. 0.243749
+6. 0.431058
+7. 0.5
+  Sure! Here are 10 random numbers between 0 and 1:
+
+1. 0.843752
+2. 0.432159
+3. 0.614285
+4. 0.956537
+5. 0.263872
+6. 0.581914
+7. 0.7463
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.823456
+2. 0.091457
+3. 0.534621
+4. 0.175368
+5. 0.467935
+6. 0.782591
+7. 0.2
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.763248
+2. 0.599406
+3. 0.670636
+4. 0.475916
+5. 0.722823
+6. 0.311063
+7. 0.9
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.8342
+2. 0.3415
+3. 0.9276
+4. 0.0531
+5. 0.6724
+6. 0.7142
+7. 0.4318
+8. 0.226
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.432
+2. 0.579
+3. 0.867
+4. 0.253
+5. 0.781
+6. 0.034
+7. 0.926
+8. 0.402
+9. 0.5
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.85342
+2. 0.36175
+3. 0.07227
+4. 0.91428
+5. 0.14561
+6. 0.73245
+7. 0.43103
+8
+  Sure! Here are 10 random numbers between 0 and 1:
+
+1. 0.752
+2. 0.341
+3. 0.964
+4. 0.023
+5. 0.812
+6. 0.437
+7. 0.679
+8. 0.243
+9. 0.501
+
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.756384
+2. 0.361913
+3. 0.0974421
+4. 0.213477
+5. 0.946354
+6. 0.0326757
+7. 0
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.53421
+2. 0.78962
+3. 0.92779
+4. 0.49324
+5. 0.14636
+6. 0.80494
+7. 0.03574
+8
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.8345
+2. 0.3672
+3. 0.0499
+4. 0.9019
+5. 0.1758
+6. 0.4321
+7. 0.7125
+8. 0.023
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.786423
+2. 0.349278
+3. 0.035625
+4. 0.867544
+5. 0.408868
+6. 0.123197
+7. 0.0
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+* 0.253846
+* 0.529571
+* 0.794323
+* 0.175688
+* 0.635274
+* 0.913567
+* 0.342733
+*
+  Sure! Here are ten uniform random numbers in the interval [0, 1]:
+
+1. 0.854321
+2. 0.361907
+3. 0.027452
+4. 0.936941
+5. 0.412235
+6. 0.092318
+7. 1.007
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.81234567
+2. 0.26374982
+3. 0.45789431
+4. 0.09653248
+5. 1.3478943
+6. 0.6732
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.734568
+2. 0.912357
+3. 0.0218274
+4. 0.475613
+5. 0.852319
+6. 0.534213
+7. 0.
+  Sure! Here are 10 random numbers in the interval [0, 1]:
+
+1. 0.8345
+2. 0.1657
+3. 0.9234
+4. 0.0456
+5. 1.0078
+6. 0.4321
+7. 0.6753
+8. 0.2139
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.8532459
+2. 0.5768367
+3. 0.2142852
+4. 0.9654251
+5. 0.4372925
+6. 0.6518199
+
+  Sure! Here are 10 random uniform numbers in the interval [0, 1]:
+
+* 0.273
+* 0.541
+* 0.854
+* 0.196
+* 0.732
+* 0.469
+* 0.038
+* 0.674
+* 0.347
+* 0.90
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.734562
+2. 0.265438
+3. 0.901027
+4. 0.0234563
+5. 0.812345
+6. 0.435672
+7. 0.
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.854723
+2. 0.361937
+3. 0.074321
+4. 0.427358
+5. 0.901039
+6. 0.234567
+7. 0.6
+  Sure! Here are ten random uniform numbers in the interval [0, 1]:
+
+1. 0.8523764
+2. 0.3619927
+3. 0.0742819
+4. 0.903672
+5. 0.1457086
+6. 0.4123942
+7. 
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.864223
+2. 0.354697
+3. 0.672457
+4. 0.023125
+5. 0.541726
+6. 0.900218
+7. 0.4
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.785423456
+2. 0.214576579
+3. 0.422384374
+4. 0.509141745
+5. 0.367251858
+6. 
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+* 0.347
+* 0.582
+* 0.811
+* 0.163
+* 0.424
+* 0.937
+* 0.275
+* 0.691
+* 0.853
+* 0.49
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.834567
+2. 0.349129
+3. 0.921016
+4. 0.076543
+5. 0.684315
+6. 0.457826
+7. 0.2
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.75
+2. 0.36
+3. 0.81
+4. 0.92
+5. 0.45
+6. 0.68
+7. 0.23
+8. 0.57
+9. 0.19
+10. 0.
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.785423
+2. 0.361977
+3. 0.034562
+4. 0.852138
+5. 0.421076
+6. 0.639475
+7. 0.2
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.7654238
+2. 0.2345679
+3. 0.9010392
+4. 0.4728851
+5. 0.6234562
+6. 0.5113219
+
+  Sure! Here are 10 random numbers between 0 and 1:
+
+1. 0.754238
+2. 0.266132
+3. 0.915154
+4. 0.0389123
+5. 0.621926
+6. 0.347636
+7. 0.872
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.834567
+2. 0.165423
+3. 0.092708
+4. 0.901654
+5. 0.048922
+6. 0.810577
+7. 0.1
+  Sure! Here are 10 random numbers in the interval [0, 1]:
+
+1. 0.842532
+2. 0.314695
+3. 0.0757763
+4. 0.921847
+5. 0.135213
+6. 0.473165
+7. 0.6
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.823548
+2. 0.347269
+3. 0.416691
+4. 0.954609
+5. 0.178553
+6. 0.023465
+7. 0.7
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+* 0.347
+* 0.682
+* 0.091
+* 0.815
+* 0.468
+* 0.623
+* 0.902
+* 0.253
+* 0.079
+* 0.53
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.867432
+2. 0.354617
+3. 0.071943
+4. 0.927571
+5. 0.114347
+6. 0.432478
+7. 0.6
+  Sure! Here are 10 uniformly random numbers in the interval [0, 1]:
+
+1. 0.849762
+2. 0.350238
+3. 0.674595
+4. 0.0234567
+5. 0.937241
+6. 0.162354
+7. 0.
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.5635
+2. 0.7489
+3. 0.3817
+4. 0.9341
+5. 0.2597
+6. 0.0783
+7. 0.8192
+8. 0.454
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.567
+2. 0.348
+3. 0.921
+4. 0.172
+5. 0.854
+6. 0.431
+7. 0.673
+8. 0.246
+9. 0.7
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+1. 0.734
+2. 0.561
+3. 0.897
+4. 0.253
+5. 1.12
+6. 0.432
+7. 0.703
+8. 0.071
+9. 1.41
+  Sure! Here are 10 uniform random numbers in the interval [0, 1]:
+
+* 0.1473245890
+* 0.673529633
+* 0.812345678
+* 0.231456789
+* 0.543210976
+* 0.372

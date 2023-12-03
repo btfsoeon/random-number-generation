@@ -8,10 +8,6 @@ import re
 
 # Put the location of to the GGUF model that you've download from HuggingFace here
 # model_path = "llama-2-7b-chat.Q2_K.gguf"
-model_path = "llama-2-13b-chat.Q2_K.gguf"
-
-# Create a llama model
-model = Llama(model_path=model_path)
 
 # max_list = [10,100]
 # max_list = [1000,10000,100000]
@@ -42,18 +38,26 @@ model = Llama(model_path=model_path)
 #     print(n_max)
 #     print(responses)
 
-result_file = "01_llama13b_results_autoreg.txt"
+# model_path = "llama-2-7b-chat.Q2_K.gguf"
+model_path = "llama-2-13b-chat.Q2_K.gguf"
+
+# Create a llama model
+model = Llama(model_path=model_path)
+
+result_file = "1_0_llama13b_temp15_results_autoreg.txt"
 max_tokens = 100
 n_trial = 200
 
 system_message = ""
-user_message = f"Give me a different list of uniform random numbers in the interval [0, 1]:"
+# user_message = f"Give me a different list of uniform random numbers in the interval [0, 1]:"
+user_message = f"Pick a random number from 1 to 10"
 prompt = f"""<s>[INST] <<SYS>>
 {system_message}
 <</SYS>>
 {user_message} [/INST]"""
+temperature = 1.5
 
-output = model(prompt, max_tokens=max_tokens, echo=True)
+output = model(prompt, max_tokens=max_tokens, echo=True, temperature=temperature)
 reply = output['choices'][0]['text'].split('[/INST]')[1]
 print(reply)
 with open(result_file, "a") as f: 
@@ -62,11 +66,12 @@ with open(result_file, "a") as f:
 prev_result = reply
 
 for i in range(1,n_trial):
-    if i % 50 == 0:
+    if i % 10 == 0:
         print(f"{i}th term")
     
-    system_message = f"I have a list of uniform random numbers in the interval [0, 1]:{prev_result}"
-    output = model(prompt, max_tokens=max_tokens, echo=True)
+    # system_message = f"I have a list of uniform random numbers in the interval [0, 1]:{prev_result}"
+    system_message = f"Picked a random number from 1 to 10:{prev_result}"
+    output = model(prompt, max_tokens=max_tokens, echo=True, temperature=temperature)
     reply = output['choices'][0]['text'].split('[/INST]')[1]
     print(reply)
     with open(result_file, "a") as f: 
