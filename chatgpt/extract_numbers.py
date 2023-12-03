@@ -23,18 +23,27 @@ def histogram(numbers, imagefile, title):
 
 
 # histogram(parse_floats('01_chatgpt35_results_autoreg.txt'), '01_chatgpt35_results_autoreg.png', 'ChatGPT 3.5 turbo model (Autoregressive)')
-# Random number generation from [0,1)
 
-numbers_35_oneshot = parse_floats('01_chatgpt35_results_oneshot.txt')
-numbers_35_autoreg = parse_floats('01_chatgpt35_results_autoreg.txt')
-numbers_4_oneshot = parse_floats('01_chatgpt4_results_oneshot.txt')
-numbers_4_autoreg = parse_floats('01_chatgpt4_results_autoreg.txt')
 
-data = {}
-data['chatgpt35_oneshot'] = numbers_35_oneshot
-data['chatgpt35_autoreg'] = numbers_35_autoreg
-data['chatgpt4_oneshot'] = numbers_4_oneshot
-data['chatgpt4_autoreg'] = numbers_4_autoreg
+def export_json(filename, parse_type, targets):
+    data = {}
+    if parse_type == 'float':
+        # Random number generation from [0,1)
+        for target in targets:
+            data[target] = parse_floats(target)
 
-with open('chatgpt.json', 'w') as f:
-    json.dump(data, f)
+    with open(filename, 'w') as f:
+        json.dump(data, f)
+
+
+targets = [
+    '01_chatgpt35_temp12_results_oneshot.txt',
+    '01_chatgpt35_temp15_results_oneshot.txt',
+    '01_chatgpt35_temp12_results_oneshot.txt',
+    '01_chatgpt35_temp15_results_oneshot.txt',
+    '01_chatgpt4_temp12_results_autoreg.txt',
+    '01_chatgpt4_temp15_results_autoreg.txt',
+    '01_chatgpt4_temp12_results_autoreg.txt',
+    '01_chatgpt4_temp15_results_autoreg.txt',
+]
+export_json('chatgpt_with_temperature.json', 'float', targets)
