@@ -38,12 +38,12 @@ def export_json(filename, parse_type, targets):
 
 targets = [
     '01_chatgpt35_temp12_results_oneshot.txt',
-    '01_chatgpt35_temp15_results_autoreg.txt',
-    '01_chatgpt35_temp12_results_oneshot.txt',
-    '01_chatgpt35_temp15_results_autoreg.txt',
+    '01_chatgpt35_temp15_results_oneshot.txt',
     '01_chatgpt4_temp12_results_oneshot.txt',
-    '01_chatgpt4_temp15_results_autoreg.txt',
-    '01_chatgpt4_temp12_results_oneshot.txt',
+    '01_chatgpt4_temp15_results_oneshot.txt',
+    '01_chatgpt35_temp12_results_autoreg.txt',
+    '01_chatgpt35_temp15_results_autoreg.txt',
+    '01_chatgpt4_temp12_results_autoreg.txt',
     '01_chatgpt4_temp15_results_autoreg.txt',
 ]
 export_json('chatgpt_with_temperature.json', 'float', targets)
